@@ -1,7 +1,7 @@
 ## README
 ### Pack My Box With Five Dozen Liquor Jugs.
 
-####*Mission Statement*
+###*Mission Statement*
 This project will illustrate mastery of concepts presented in the course. Links, images, headings, paragraphs, lists, and tables will demonstrate understanding of and the ability to use these concepts for practical applications.
 
 #### Lorem Ipsum
